@@ -1,4 +1,4 @@
-## Your Welome 👋 its me Nithish kumar
+![linked-in-alt](https://github.com/user-attachments/assets/022b1d58-f47e-4831-b1da-cb2afc2793ec)## Your Welome 👋 its me Nithish kumar
 B.E. Computer Science Engineering student with a passion for:
 - 🎮 Game Development  
 - 🧩 Problem-Solving  
@@ -7,8 +7,7 @@ B.E. Computer Science Engineering student with a passion for:
 
 I always have the hunger to explore more, connect with people and grow in the world of technology!
 
-
-I code in
+## I code in
 
 
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67](https://github.com/user-attachments/assets/9ab90ca7-b0be-4b1c-9f65-0220c593a023)![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/user-attachments/assets/8c202d35-796f-4bf7-9bfc-d74b83da2704)
@@ -17,11 +16,57 @@ I code in
 
          
 
-IDE and Tools I Use
+## IDE and Tools I Use
 
 ![free-amazon-aws-3628617-3029842 1](https://github.com/user-attachments/assets/6b895157-02b5-4b92-99fd-ffd137d57e0a)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67](https://github.com/user-attachments/assets/ccdbc78d-009d-4fc0-a95c-b60af442090a)![413592238-fd9facf1-e1e5-497a-932b-1695b29d08db](https://github.com/user-attachments/assets/2a11f6bd-8aaa-4338-95b0-0ac68b741c87)
 ![download 1](https://github.com/user-attachments/assets/3bd1213b-ccf4-497b-8fbe-d1222405aa66)![426196 2](https://github.com/user-attachments/assets/4b7e31a1-658a-4fcf-b5b6-073de934de9c)![download 3](https://github.com/user-attachments/assets/d8447465-dcee-409f-898e-371c6e6a3e82)
+
+## Connect with me at
+![Upl<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<rect y="160" style="fill:#1976D2;" width="114.496" height="352"/>
+	<path style="fill:#1976D2;" d="M426.368,164.128c-1.216-0.384-2.368-0.8-3.648-1.152c-1.536-0.352-3.072-0.64-4.64-0.896
+		c-6.08-1.216-12.736-2.08-20.544-2.08l0,0l0,0c-66.752,0-109.088,48.544-123.04,67.296V160H160v352h114.496V320
+		c0,0,86.528-120.512,123.04-32c0,79.008,0,224,0,224H512V274.464C512,221.28,475.552,176.96,426.368,164.128z"/>
+	<circle style="fill:#1976D2;" cx="56" cy="56" r="56"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+oading linked-in-alt.svg…]()
+
 
 
 
