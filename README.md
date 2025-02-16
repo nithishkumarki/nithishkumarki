@@ -24,9 +24,9 @@ I always have the hunger to explore more, connect with people and grow in the wo
 
 ## Connect with me at
 
-![linked-in-alt 1](https://github.com/user-attachments/assets/3b26e22f-d176-4799-9df1-813312a6ca19)
-![HackerRank_Icon-1000px 1](https://github.com/user-attachments/assets/e1728db9-d1d8-4c92-8930-2813772329a0)
-![LeetCode 1](https://github.com/user-attachments/assets/09ffba3a-156f-4f48-8220-d15115d5737d)
+![linked-in-alt 1](https://github.com/user-attachments/assets/3b26e22f-d176-4799-9df1-813312a6ca19)(https://www.linkedin.com/in/nithishkumarki/)
+![HackerRank_Icon-1000px 1](https://github.com/user-attachments/assets/e1728db9-d1d8-4c92-8930-2813772329a0)(https://www.hackerrank.com/profile/22CSR136_NITHISH)
+![LeetCode 1](https://github.com/user-attachments/assets/09ffba3a-156f-4f48-8220-d15115d5737d)(https://leetcode.com/u/nithishkumarki/)
 
 
 
