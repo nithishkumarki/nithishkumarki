@@ -1,4 +1,4 @@
-![linked-in-alt](https://github.com/user-attachments/assets/022b1d58-f47e-4831-b1da-cb2afc2793ec)## Your Welome 👋 its me Nithish kumar
+## Your Welome 👋 its me Nithish kumar
 B.E. Computer Science Engineering student with a passion for:
 - 🎮 Game Development  
 - 🧩 Problem-Solving  
@@ -23,6 +23,11 @@ I always have the hunger to explore more, connect with people and grow in the wo
 ![download 1](https://github.com/user-attachments/assets/3bd1213b-ccf4-497b-8fbe-d1222405aa66)![426196 2](https://github.com/user-attachments/assets/4b7e31a1-658a-4fcf-b5b6-073de934de9c)![download 3](https://github.com/user-attachments/assets/d8447465-dcee-409f-898e-371c6e6a3e82)
 
 ## Connect with me at
+
+![linked-in-alt 1](https://github.com/user-attachments/assets/3b26e22f-d176-4799-9df1-813312a6ca19)
+![HackerRank_Icon-1000px 1](https://github.com/user-attachments/assets/e1728db9-d1d8-4c92-8930-2813772329a0)
+![LeetCode 1](https://github.com/user-attachments/assets/09ffba3a-156f-4f48-8220-d15115d5737d)
+
 
 
 
