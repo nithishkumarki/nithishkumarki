@@ -23,9 +23,10 @@ I always have the hunger to explore more, connect with people and grow in the wo
 ![download 1](https://github.com/user-attachments/assets/3bd1213b-ccf4-497b-8fbe-d1222405aa66)![426196 2](https://github.com/user-attachments/assets/4b7e31a1-658a-4fcf-b5b6-073de934de9c)![download 3](https://github.com/user-attachments/assets/d8447465-dcee-409f-898e-371c6e6a3e82)
 
 ## Connect with me at
-<a href="https://www.linkedin.com/in/nithishkumarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasannas02" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nithishkumarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unity" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/22CSR136_NITHISH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22csr150_pras" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nithishkumarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasannas02" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nithishkumarki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="untiy" height="30" width="40" /></a>
+<a href="https://play.unity.com/en/user/d44985cb-2deb-43ce-85c5-dd40d3213f44" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQkFLV1plkL_D7JPNS2ksUfIzmoR4em-7-Q&s" alt="untiy" height="30" width="40" /></a>
 
 
 
