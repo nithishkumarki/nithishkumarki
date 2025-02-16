@@ -5,7 +5,7 @@ B.E. Computer Science Engineering student with a passion for:
 - 🚀 Learning New Things  
 - 🔍 Debugging & Understanding How Things Work Behind the Scenes  
 
-I'm always have the hunger to explore and grow in the world of technology!
+I always have the hunger to explore more, connect with people and grow in the world of technology!
 
 
 I code in
