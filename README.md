@@ -1,4 +1,4 @@
-## Your Welome 👋 its me Nithish kumar
+## Your Welcome 👋 its me Nithish kumar
 B.E. Computer Science Engineering student with a passion for:
 - 🎮 Game Development  
 - 🧩 Problem-Solving  
