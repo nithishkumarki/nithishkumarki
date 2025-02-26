@@ -21,8 +21,9 @@ I always have the hunger to explore more, connect with people and grow in the wo
 ![free-amazon-aws-3628617-3029842 1](https://github.com/user-attachments/assets/6b895157-02b5-4b92-99fd-ffd137d57e0a)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67](https://github.com/user-attachments/assets/ccdbc78d-009d-4fc0-a95c-b60af442090a)![413592238-fd9facf1-e1e5-497a-932b-1695b29d08db](https://github.com/user-attachments/assets/2a11f6bd-8aaa-4338-95b0-0ac68b741c87)
 ![download 1](https://github.com/user-attachments/assets/3bd1213b-ccf4-497b-8fbe-d1222405aa66)![426196 2](https://github.com/user-attachments/assets/4b7e31a1-658a-4fcf-b5b6-073de934de9c)
-![download 3](https://github.com/user-attachments/assets/d8447465-dcee-409f-898e-371c6e6a3e82)
-![in](https://github.com/user-attachments/assets/3af861c1-c203-4c31-b86a-2e89a06d6f0e)
+![in](https://github.com/user-attachments/assets/c054d9d0-948c-4965-a6e2-3184627abbfd)
+
+
 
 
 ## Connect with me at
